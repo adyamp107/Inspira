@@ -80,5 +80,6 @@ To run the project locally:
 
 ```bash
 git clone https://github.com/adyamp107/Inspira.git
+```
 
 Then open Inspira.xcodeproj in Xcode and run on an iOS device or simulator (iOS 16+ recommended).
